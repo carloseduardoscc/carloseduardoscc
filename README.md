@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Carlos!
 
-<!--
-**carloseduardoscc/carloseduardoscc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Um entusiasta de desenvolvimento de software, focado em Back-End com Java! 🚀
 
-Here are some ideas to get you started:
+Sou apaixonado por criar soluções eficientes e escaláveis. Atualmente, estudo Java e C# enquanto exploro tecnologias como MongoDB e Docker para desenvolver APIs robustas e modernas. Vamos nos conectar!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carloseduardoscc&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=carloseduardoscc&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardoscc&layout=compact&theme=radical" width="335"/>
+</div>
+
+## 🛠️ Minhas Habilidades
+
+### Tecnologias Principais:
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+### Estudando Atualmente:
+<p align="left">
+  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+## 📫 Como Me Encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/carloseduardoscc)
+- [GitHub](https://github.com/carloseduardoscc)
+- Email: carloseduscc@gmail.com
