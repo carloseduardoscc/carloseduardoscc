@@ -29,6 +29,5 @@ Atualmente, estudo Java e enquanto exploro tecnologias como MongoDB e Docker par
 
 ## 📫 Como Me Encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/carloseduardoscc)
-- [GitHub](https://github.com/carloseduardoscc)
+- [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-368842284/)
 - Email: carloseduscc@gmail.com
