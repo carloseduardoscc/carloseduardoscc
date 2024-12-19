@@ -2,7 +2,7 @@
 
 Um entusiasta de desenvolvimento de software, focado em Back-End com Java! 🚀
 
-Sou apaixonado por criar soluções eficientes e escaláveis. Atualmente, estudo Java e C# enquanto exploro tecnologias como MongoDB e Docker para desenvolver APIs robustas e modernas. Vamos nos conectar!
+Atualmente, estudo Java e enquanto exploro tecnologias como MongoDB e Docker para desenvolver APIs robustas e modernas. Vamos nos conectar!
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=carloseduardoscc&theme=radical" alt="GitHub Streak"/>
@@ -23,7 +23,6 @@ Sou apaixonado por criar soluções eficientes e escaláveis. Atualmente, estudo
 
 ### Estudando Atualmente:
 <p align="left">
-  <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
